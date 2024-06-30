@@ -4,8 +4,8 @@ Hacer prácticas en el area de tecnología de la informacíon, donde pueda desar
 Mis proyectos individuales : "challengerAhorcado" 
                              "ToDoApp"
                              "miPortafolio"
-                             "pi-Pokemon" Proyecto individual de la academia Soy HEnry 
-        Proyectos de practica y aprendisaje individual
+                             "pi-Pokemon" Proyecto individual de la academia Soy Henry. 
+        Proyectos de practica y aprendisaje individual.<br/>
 Mis proyectos colaborativos: "Tienda virtual BellaMusse"  Trabajo en equipo en un entorno colaborativo!
 <!--
 **Gabriel-Villalba/Gabriel-Villalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
