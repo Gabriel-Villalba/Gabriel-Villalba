@@ -6,7 +6,9 @@ Mis proyectos individuales : "challengerAhorcado"
                              "miPortafolio"
                              "pi-Pokemon" Proyecto individual de la academia Soy Henry. 
         Proyectos de practica y aprendisaje individual.<br/>
-Mis proyectos colaborativos: "Tienda virtual BellaMusse"  Trabajo en equipo en un entorno colaborativo!
+Mis proyectos colaborativos: "Tienda virtual BellaMusse"  Trabajo en equipo en un entorno colaborativo!<br/>
+
+
 <!--
 **Gabriel-Villalba/Gabriel-Villalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
