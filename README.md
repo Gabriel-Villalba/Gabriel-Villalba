@@ -1,4 +1,5 @@
-## Hi there 👋
+Estudiante de dasarrollo web, busco oportunidad para adquirir experiencia en el campo de desarrollo Frontend y Backend (React , NodeJs).
+Busco oprtunidades para hacer prácticas en el area de tecnología de la informacíon, donde pueda desarrollar mis conocimientos técnicos y crecer junto a la empresa y a mis compañeros de trabajo.
 
 <!--
 **Gabriel-Villalba/Gabriel-Villalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
