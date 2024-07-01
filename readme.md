@@ -1,4 +1,4 @@
-Hola, soy dasarrollor web,enfocado en el BackEnd con tecnólogias como Node Js, Express, Base de datos con Postgresql 🚀🚀. Busco oportunidad para adquirir experiencia en el campo de desarrollo web.
+Hola, soy dasarrollor web, enfocado en el BackEnd con tecnólogias como Node Js, Express, Base de datos con Postgresql 🚀🚀. Busco oportunidad para adquirir experiencia en el campo de desarrollo web.
 Hacer prácticas en el area de tecnología de la informacíon, donde pueda desarrollar mis conocimientos técnicos y crecer junto a la empresa y a mis compañeros de trabajo. 😁
 
 Mis proyectos individuales : "challengerAhorcado" 
