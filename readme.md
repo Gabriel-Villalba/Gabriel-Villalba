@@ -7,8 +7,10 @@ Mis proyectos individuales : 🔥"challengerAhorcado"
                              🔥"pi-Pokemon" Proyecto individual de la academia Soy Henry. Proyecto individual en el que trabajamos con la API Pokemon, mostramos todos los personajes, creamos nuevos. Los listamos
                                             por categoria y de manera alfabeticamente 
                              
-        Proyectos de practica y aprendisaje individual.<br/>
-Mis proyectos colaborativos: 🔥"Tienda virtual BellaMusse"  Trabajo en equipo en un entorno colaborativo!<br/>
+        Proyectos de practica y aprendisaje individual.
+     Mis proyectos colaborativos: 🔥"Tienda virtual BellaMusse"  Trabajo en equipo en un entorno colaborativo!<br/>
+                                    Tienda de indumentaria para damas, con un carrito de compras, con el cual realizamos el circulo de compras completo, elección de la prenda, colocarla en el carrito, facturar y pagar usando la pasarela de pago de Mercado Pago.
+                                    Ademas el administrador puede agregar, modificar o eliminar un producto
 
 
 <!--
