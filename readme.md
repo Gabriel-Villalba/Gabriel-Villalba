@@ -1,4 +1,4 @@
-Gabriel Villalba
+                   Gabriel Villalba
 
 🚀 Constructor de sistemas digitales orientados a negocio
 🧠 Mentalidad de producto. Tecnología como herramienta, no como identidad.
@@ -9,9 +9,10 @@ Trabajo de forma integral (frontend + backend), con foco en:
 Desarrollo de MVPs rápidos y validables
 Estructuras de datos limpias y escalables
 Sistemas simples que generan resultados
-
 Ejecución sin sobreingeniería
-Incorporo IA como herramienta estratégica para acelerar la construcción de productos y reducir el tiempo entre idea y ejecución, potenciando la eficiencia y la capacidad de iteración.
+
+--Incorporo IA como herramienta estratégica para acelerar la construcción de productos y 
+reducir el tiempo entre idea y ejecución, potenciando la eficiencia y la capacidad de iteración.
 
 🔧 Herramientas actuales
 
@@ -23,7 +24,7 @@ Vercel, Cloudinary
 
 El stack evoluciona. La lógica permanece.
 
-🚀 Proyectos en producción
+		🚀 Proyectos en producción
 🛒 FavStore
 Catálogo e-commerce diseñado para pequeños negocios que necesitan vender rápido y sin fricción, integrando WhatsApp como canal directo de conversión.
 🔗 https://favstore.com.ar
